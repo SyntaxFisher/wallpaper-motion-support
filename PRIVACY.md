@@ -10,11 +10,15 @@ Imported videos, downloaded wallpapers, thumbnails, favorites, settings, and the
 
 ## Pixabay browsing
 
-Wallpaper Motion uses Pixabay to provide its Browse library. When you open Browse, search for a wallpaper, view a thumbnail, or download a wallpaper, your Mac connects directly to Pixabay. Pixabay receives the search terms and request information needed to return content, which can include your IP address and information about the requested videos.
+Wallpaper Motion uses Pixabay to provide its Browse library. When you open Browse, search for a wallpaper, view a thumbnail, or download a wallpaper, your Mac connects directly to Pixabay. Pixabay receives the search terms and request information needed to return content, which can include your IP address and information about the requested videos. Pixabay may use an IP address to infer an approximate location and may associate request information with other information it holds.
 
-Pixabay may process search and usage information for service operation, analytics, personalization, and service improvement. Its practices are described in the [Pixabay Privacy Policy](https://pixabay.com/service/privacy/).
+Pixabay may retain and process search, usage, and approximate location information for service operation, analytics, personalization, and service improvement. Its practices are described in the [Pixabay Privacy Policy](https://pixabay.com/service/privacy/).
 
-You can use imported local videos without opening Browse.
+You can avoid sending further requests to Pixabay by using imported local videos without opening Browse.
+
+## Deleting local information
+
+You can remove individual wallpapers from the library. Clear Cache removes cached thumbnails. Clear Storage removes every downloaded and imported wallpaper, favorites, cached thumbnails, and the selected wallpaper from the app's local storage.
 
 ## Sharing and tracking
 
