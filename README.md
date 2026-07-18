@@ -4,7 +4,7 @@ Wallpaper Motion is a menu bar app for animated video wallpapers on macOS.
 
 ## Download
 
-Download Wallpaper Motion 1.0.1 from the [latest release](https://github.com/SyntaxFisher/wallpaper-motion-support/releases/latest).
+Download Wallpaper Motion 1.0 from the [latest release](https://github.com/SyntaxFisher/wallpaper-motion-support/releases/latest).
 
 ## Features
 
