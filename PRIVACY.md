@@ -1,6 +1,6 @@
 # Wallpaper Motion Privacy Policy
 
-Last updated: July 13, 2026
+Last updated: September 9, 2026
 
 Wallpaper Motion does not require an account and does not include advertising, tracking, or analytics operated by the developer.
 
@@ -10,7 +10,7 @@ Imported videos, downloaded wallpapers, thumbnails, favorites, settings, and the
 
 ## Pixabay browsing
 
-Wallpaper Motion uses Pixabay to provide its Browse library. When you open Browse, search for a wallpaper, view a thumbnail, or download a wallpaper, your Mac connects directly to Pixabay. Pixabay receives the search terms and request information needed to return content, which can include your IP address and information about the requested videos. Pixabay may use an IP address to infer an approximate location and may associate request information with other information it holds.
+Wallpaper Motion uses Pixabay to provide its Browse library. When you open Browse, search for a wallpaper, view a thumbnail, stream an unsaved video preview, or download a wallpaper, your Mac connects directly to Pixabay. Pixabay receives the search terms and request information needed to return content, which can include your IP address and information about the requested videos. Pixabay may use an IP address to infer an approximate location and may associate request information with other information it holds.
 
 Pixabay may retain and process search, usage, and approximate location information for service operation, analytics, personalization, and service improvement. Its practices are described in the [Pixabay Privacy Policy](https://pixabay.com/service/privacy/).
 
